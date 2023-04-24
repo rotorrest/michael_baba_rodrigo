@@ -1,2 +1,2 @@
-print("new feature")
-print("new feature 1")
+print("NEW FEATURE")
+print("NEW FEATURE 1")
